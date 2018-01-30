@@ -69,4 +69,7 @@
   <ItemGroup>
     <None Include="ContactManager.publish.xml" />
   </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="ContactManager.DB.refactorlog" />
+  </ItemGroup>
 </Project>
