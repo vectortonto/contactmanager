@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="Contact.Table.sql" />
+    <Build Include="Invoice.Table.sql" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="Deploy\Contact.Data.sql" />
